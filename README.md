@@ -1,7 +1,7 @@
 # Denon AVR-803 and Polk Speakers - Useful Links
 
 * [Denon AVR-2803 specs](https://www.cnet.com/products/denon-avr-2803/specs/)
-* [Polk Bookself Speaker Specs](https://www.cnet.com/products/polk-audio-r20-speaker//)
+* [Polk Bookself Speaker Specs](https://www.cnet.com/products/polk-audio-r20-speaker/)
 
 # Price compare
 * [Denon AVR-2803 for sale on eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=avr-2803&_sacat=0)
