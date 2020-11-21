@@ -2,7 +2,7 @@
 
 * [Denon AVR-2803 specs](https://www.cnet.com/products/denon-avr-2803/specs/)
 * [Polk Bookself Speaker Specs](https://www.cnet.com/products/polk-audio-r20-speaker/)
-
+* [Denon Owners Manual](https://www.manualslib.com/manual/1211722/Denon-Avr-2803.html?page=3#manual)
 # Price compare
 * [Denon AVR-2803 for sale on eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=avr-2803&_sacat=0)
 
